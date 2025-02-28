@@ -1,0 +1,17 @@
+J:\courses\dotnet\dotnet-skills\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+J:\courses\dotnet\dotnet-skills\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+J:\courses\dotnet\dotnet-skills\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+J:\courses\dotnet\dotnet-skills\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+J:\courses\dotnet\dotnet-skills\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+J:\courses\dotnet\dotnet-skills\ConsoleApp\bin\Debug\net9.0\Pastel.dll
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.AssemblyReference.cache
+J:\courses\dotnet\dotnet-skills\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.Up2Date
