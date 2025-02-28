@@ -2,4 +2,4 @@
 using System.Drawing;
 using Pastel;
 
-Console.WriteLine("Hello, World!".Pastel(Color.Green));
+Console.WriteLine("Hello, World!".Pastel(Color.RebeccaPurple));
