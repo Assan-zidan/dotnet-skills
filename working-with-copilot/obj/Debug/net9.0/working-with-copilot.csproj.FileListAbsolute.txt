@@ -1,0 +1,15 @@
+J:\courses\dotnet\dotnet-skills\working-with-copilot\bin\Debug\net9.0\working-with-copilot.exe
+J:\courses\dotnet\dotnet-skills\working-with-copilot\bin\Debug\net9.0\working-with-copilot.deps.json
+J:\courses\dotnet\dotnet-skills\working-with-copilot\bin\Debug\net9.0\working-with-copilot.runtimeconfig.json
+J:\courses\dotnet\dotnet-skills\working-with-copilot\bin\Debug\net9.0\working-with-copilot.dll
+J:\courses\dotnet\dotnet-skills\working-with-copilot\bin\Debug\net9.0\working-with-copilot.pdb
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.GeneratedMSBuildEditorConfig.editorconfig
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.AssemblyInfoInputs.cache
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.AssemblyInfo.cs
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.csproj.CoreCompileInputs.cache
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.sourcelink.json
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.dll
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\refint\working-with-copilot.dll
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.pdb
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\working-with-copilot.genruntimeconfig.cache
+J:\courses\dotnet\dotnet-skills\working-with-copilot\obj\Debug\net9.0\ref\working-with-copilot.dll
